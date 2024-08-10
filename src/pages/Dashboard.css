@@ -1,0 +1,21 @@
+/* Dashboard.css */
+
+.emoji-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .emoji {
+    font-size: 180px; /* Larger size for visibility */
+  }
+  
+  .message {
+    font-size: 24px;
+    font-weight: bold;
+    color: #FFA07A; /* Light salmon color for the message */
+    margin-top: 10px;
+  }
+  
